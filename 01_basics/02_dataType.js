@@ -21,7 +21,7 @@ console.log(3
     //String use in "" but can be use in '' too
     //Boolean either true or false
     // null = standalone value
-    // undefined= like you didn't defined in variable we saw
+    // undefined= like you defined in variable we saw
     // Symbol it will get used in react
 
 
